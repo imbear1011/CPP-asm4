@@ -1,0 +1,4 @@
+Common:abc,kha@gmail.com,12345678,100,12;Display:0,0,0;Sound:0,0,0,0;General:(GMT-10:00) , French
+Common:Bui Minh Kha,kha@gmail.com,19145400,19,19;Display:0,0,0;Sound:0,0,0,0;General:(GMT+07:00) , Vietnamese
+Common:Nguyen Tung Duong,amuioi@gmail.com,55555555,50,50;Display:0,0,0;Sound:0,0,0,0;General:(GMT-08:00) , English
+Common:Ninh Anh Bui,aninh@gmail.com,88888888,80,80;Display:0,0,0;Sound:0,0,0,0;General:(GMT-05:00) , English
